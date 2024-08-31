@@ -1,6 +1,6 @@
 <b>Django-Blog Website</b>
 <br><br>
-This is a basic blog application built with Django, allowing users to perform CRUD (Create, Read, Update, Delete) operations on blog posts. 
+Blog application built with Django, allowing users to perform CRUD (Create, Read, Update, Delete) operations on blog posts. 
 The application also includes a simple API for interacting with the blog posts programmatically.
 <br><br>
 Features:
